@@ -1,0 +1,23 @@
+deep learninng
+
+
+*recognize the signal
+*darthmouth workshop - AI first workshop ---->1956(sawal ---> kia computer soch sakta he?) answer was yes
+*then question was arise that HOW?????
+*Intellectual task---> task mic peechay pauchna he (solution he best possible way honi chaiye yeh intellect he kaam best tareqay se hona chaiye.
+Exapmle---> traffic rules ka maloom hona intellect nahi he rules ko sahe jagah apply karna in best possible way yeh he intellect, computer k paass wohi way he jo hamnay usko sikhaya he 
+* main baat he jb guideline provide nai ki ho tou us condition mein kiya karna he???
+* aisa na ho tou kiya karna he ?
+* pehle daur mein intellectual nahi hoti thi lekin ab ke zamane mein intellectual robots bananay ka focus he
+* chess k game mein if else program ki hui thin hard code mein tou bas simply game he lekin agar koi condition feed nai ki tou woh phas jaye ga.-----> yeh MACHINE LEARNING nai he!!!!
+*symbolic AI he yeh sab
+*symbolic AI well define (means sab pata he k kiya karna he ) or logical programs mein kam karti he.
+*then problems arise hui image processing , language mapping mein yeh sab mein maslay aye aur phr machine learning ne isko replace kiya
+*lady ada lovelace ----> isnay socha k jo cheez mghy maloom he tou kaam karwany ka kiya faida computer se ismein kuch naya nai he srf hamaray behalf pr kam kar raha he 
+*kiya computer data ko dekh kr rules ko seekh sakta he -----> data ko dekh kr usko seekhna 
+* machine learning mein ----> jo mghy nahi maloom he woh computer ne maloom karke di
+* machine learning system is trained rather than explicitly
+*result is feedback
+*upgradation is learning
+* kia jab model train hojata he tou kiya life time k liye update hoga? 
+*deep-----> jitni zyaada layers barhti jarti hein utna model deep hota chala jata he
